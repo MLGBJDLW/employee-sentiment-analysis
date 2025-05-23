@@ -40,10 +40,10 @@ This project analyzes internal employee email communications to assess sentiment
 
 | Model               | Type           | R² / Accuracy | RMSE     |
 |--------------------|----------------|---------------|----------|
-| Linear Regression  | Regression     | 0.76          | 0.58     |
-| Random Forest      | Regression     | 0.74          | 0.60     |
-| MLP Neural Network | Regression     | -2,572,860    | 1893.41  |
-| Logistic Regression| Classification | 46.81%        | —        |
+| Linear Regression  | Regression     | 0.761407      |0.576588  |
+| Random Forest      | Regression     | 0.744090      | 0.597146 |
+| MLP Neural Network | Regression     | -0.115005     | 1.24645  |
+| Logistic Regression| Classification | 0.468085      | —        |
 
 ---
 
