@@ -1,0 +1,10 @@
+# Ignore specific files
+.env
+quiz.ipynb
+superstore.csv
+
+
+# (Optional) Also ignore temp and backup files
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
