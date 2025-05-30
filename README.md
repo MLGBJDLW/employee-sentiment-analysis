@@ -47,5 +47,11 @@ See: `Output/employee_rankings.csv`, `Output/risk_employees.csv`
 
 ---
 
-## 📁 Project Structure
+## 📈 Model Performance Summary
+| Model               | Type           | R² / Accuracy | RMSE     |
+| ------------------- | -------------- | ------------- | -------- |
+| Linear Regression   | Regression     | 0.794569      | 0.430228 |
+| Random Forest       | Regression     | 0.756679      | 0.468226 |
+| MLP Neural Network  | Regression     | 0.791572      | 0.433355 |
+| Logistic Regression | Classification | 0.338028      | –        |
 
