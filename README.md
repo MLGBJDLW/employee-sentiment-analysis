@@ -37,7 +37,7 @@ Each model evaluated using **R²**, **RMSE**, and confusion matrices.
 
 ---
 
-## 🏆 Employee Rankings (Example)
+## 🏆 Employee Rankings
 
 - Top 3 Most Positive Employees
 - Top 3 Most Negative Employees
